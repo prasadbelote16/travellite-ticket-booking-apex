@@ -25,4 +25,7 @@ Technologies Used:
 - SQL / PLSQL
 - HTML / CSS
 
+## Screenshots
 
+### Login Page
+![Login Page](screenshots/1.png)
